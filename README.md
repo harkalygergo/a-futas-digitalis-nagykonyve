@@ -32,11 +32,15 @@ Indirekt részek:
 
 Ráadásul ez az aktivitás nemcsak futásból áll, mivel azon kevés sportok közé tartozik, melyek az egész testet igénybe veszik az első pillanattól. Ezért szükséges a futás mellett más, kiegészítő, alternatív vagy épp erősítő mozgásformákat is eszközölni.
 
-## Hasznos felületek
+## Futásról szóló portálok
 
-### Magyar nyelvű futásról szóló online portálok (nem fontossági, hanem ABC sorrendben)
+### Magyar nyelvű (nem fontossági, hanem ABC sorrendben)
 
 - Eper és Satya (Ma Is Futok Egyesület): https://maisfutok.hu
 - Galambos Ádám (Futótárs): http://futotars.com/
 - Makrai Réka: https://tornanya.blogspot.com
 - Simonyi Balázs: https://nemaze.blog.hu
+
+### Angol nyelvű
+
+- The Running Channel: https://therunningchannel.com/
