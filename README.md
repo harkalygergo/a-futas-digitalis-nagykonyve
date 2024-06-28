@@ -13,6 +13,8 @@ Az elektronikus formátum előnye, hogy
 - a tartalomban egyszerű keresni, konkrét részhez ugrani
 - médiatartalmak könnyen nagyíthatóak
 - mozgó kép (GIF) is beágyazható
+- nincs korlátozva a (fizikai) terjedelme, hossza
+- példányonként eltérő, személyre szabott mellékletek társíthatóak (például egyéni edzésterv)
 
 A futás direkt és indirekt részekből áll:
 
