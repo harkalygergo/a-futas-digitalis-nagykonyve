@@ -15,6 +15,7 @@ Az elektronikus formátum előnye, hogy
 - mozgó kép (GIF) is beágyazható
 - nincs korlátozva a (fizikai) terjedelme, hossza
 - példányonként eltérő, személyre szabott mellékletek társíthatóak (például egyéni edzésterv)
+- szövegfelolvasó eszközökkel feldolgozható, meghallgatható
 
 A futás direkt és indirekt részekből áll:
 
@@ -33,8 +34,9 @@ Ráadásul ez az aktivitás nemcsak futásból áll, mivel azon kevés sportok k
 
 ## Hasznos felületek
 
-### Magyar nyelvű, futásról szóló blogok
+### Magyar nyelvű futásról szóló online portálok (nem fontossági, hanem ABC sorrendben)
 
-- Makrai Réka: https://tornanya.blogspot.com
-- SimonyiBalázs: https://nemaze.blog.hu
 - Eper és Satya (Ma Is Futok Egyesület): https://maisfutok.hu
+- Galambos Ádám (Futótárs): http://futotars.com/
+- Makrai Réka: https://tornanya.blogspot.com
+- Simonyi Balázs: https://nemaze.blog.hu
