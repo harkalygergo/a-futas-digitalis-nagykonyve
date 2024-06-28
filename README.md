@@ -35,3 +35,4 @@ Ráadásul ez az aktivitás nemcsak futásból áll, mivel azon kevés sportok k
 
 - Makrai Réka: https://tornanya.blogspot.com
 - SimonyiBalázs: https://nemaze.blog.hu
+- Eper és Satya (Ma Is Futok Egyesület): https://maisfutok.hu
