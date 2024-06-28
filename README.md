@@ -14,11 +14,18 @@ Az elektronikus formátum előnye, hogy
 - médiatartalmak könnyen nagyíthatóak
 - mozgó kép (GIF) is beágyazható
 
-A futás négy részből áll:
+A futás direkt és indirekt részekből áll:
+
+Direkt részek:
+
 1. bemelegítés
 2. terhelés
 3. nyújtás
 4. Regenerálódás
+
+Indirekt részek:
+- étkezés
+- alternatív, kiegészítő sporttevékenységek
 
 Ráadásul ez az aktivitás nemcsak futásból áll, mivel azon kevés sportok közé tartozik, melyek az egész testet igénybe veszik az első pillanattól. Ezért szükséges a futás mellett más, kiegészítő, alternatív vagy épp erősítő mozgásformákat is eszközölni.
 
