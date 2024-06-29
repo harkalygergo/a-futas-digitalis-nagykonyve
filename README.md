@@ -62,4 +62,5 @@ Ráadásul ez az aktivitás nemcsak futásból áll, mivel azon kevés sportok k
 - hosszú futás: Hosszú távú, lassabb tempójú futás az állóképesség növelésére.
 - regeneráló futás: Könnyű, lassú tempójú futás a pihenés és regeneráció érdekében.
 - hegyi futás: Emelkedőkön végzett futás az erő és az állóképesség növelésére.
+- résztávos: rövid távú gyorsfutások nagyobb pihenőidőkkel taglalva
 - versenytempó futás: A tervezett versenytempóban végzett futás, amely segít a versenyre való felkészülésben.
