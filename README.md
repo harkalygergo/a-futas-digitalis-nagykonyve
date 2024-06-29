@@ -34,6 +34,10 @@ Indirekt részek:
 
 Ráadásul ez az aktivitás nemcsak futásból áll, mivel azon kevés sportok közé tartozik, melyek az egész testet igénybe veszik az első pillanattól. Ezért szükséges a futás mellett más, kiegészítő, alternatív vagy épp erősítő mozgásformákat is eszközölni.
 
+## Tartalomjegyzék
+
+1. Futástípusok
+
 ## Futásról szóló portálok
 
 ### Magyar nyelvű (nem fontossági, hanem ABC sorrendben)
@@ -46,3 +50,16 @@ Ráadásul ez az aktivitás nemcsak futásból áll, mivel azon kevés sportok k
 ### Angol nyelvű
 
 - The Running Channel: https://therunningchannel.com/
+
+---
+---
+
+## Futástípusok
+
+- fartlek: Váltakozó sebességgel végzett futás, amely a sebesség és az állóképesség javítását célozza.
+- intervallum futás: Intenzív szakaszok váltakozása pihenő vagy könnyű futás szakaszokkal. Célja a sebesség és az aerob kapacitás növelése.
+- tempó futás: Közepesen gyors tempójú futás, amely az anaerob küszöbön történik, az állóképesség fejlesztésére szolgál.
+- hosszú futás: Hosszú távú, lassabb tempójú futás az állóképesség növelésére.
+- regeneráló futás: Könnyű, lassú tempójú futás a pihenés és regeneráció érdekében.
+- hegyi futás: Emelkedőkön végzett futás az erő és az állóképesség növelésére.
+- versenytempó futás: A tervezett versenytempóban végzett futás, amely segít a versenyre való felkészülésben.
