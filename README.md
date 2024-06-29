@@ -29,6 +29,8 @@ Direkt részek:
 Indirekt részek:
 - étkezés
 - alternatív, kiegészítő sporttevékenységek
+- orvosi vizsgálat
+- gyógytorna
 
 Ráadásul ez az aktivitás nemcsak futásból áll, mivel azon kevés sportok közé tartozik, melyek az egész testet igénybe veszik az első pillanattól. Ezért szükséges a futás mellett más, kiegészítő, alternatív vagy épp erősítő mozgásformákat is eszközölni.
 
