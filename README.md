@@ -38,6 +38,15 @@ Ráadásul ez az aktivitás nemcsak futásból áll, mivel azon kevés sportok k
 
 1. Futástípusok
 
+## Futó események
+
+- https://www.futanet.hu
+- https://futonaptar.hu
+- http://www.ultranaptar.hu
+- https://futocentrum.hu
+- https://www.futonaptar.info
+- https://sportnaptar.hu/futas
+
 ## Futásról szóló portálok
 
 ### Magyar nyelvű (nem fontossági, hanem ABC sorrendben)
