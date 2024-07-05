@@ -50,6 +50,7 @@ Ráadásul ez az aktivitás nemcsak futásból áll, mivel azon kevés sportok k
 - https://ultrabalaton.hu/nevezes/
 - http://korido.hu/
 - https://fussneki.hu/
+- https://urhszeged.hu/
 
 ## Futásról szóló portálok
 
