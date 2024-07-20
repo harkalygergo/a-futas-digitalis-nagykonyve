@@ -39,6 +39,12 @@ Ráadásul ez az aktivitás nemcsak futásból áll, mivel azon kevés sportok k
 
 1. Futástípusok
 
+## Futóelemzés (ABC sorrendben)
+
+- https://runalyze.com
+- https://www.strava.com
+- https://www.trainingpeaks.com
+
 ## Futó események
 
 - https://www.futanet.hu
