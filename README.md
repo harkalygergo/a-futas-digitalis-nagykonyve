@@ -86,6 +86,10 @@ Ráadásul ez az aktivitás nemcsak futásból áll, mivel azon kevés sportok k
 
 ---
 
+[szótár](szotar.md)
+
+---
+
 ## Szótár
 
 **Futókirándulás**
