@@ -37,8 +37,9 @@ Ráadásul ez az aktivitás nemcsak futásból áll, mivel azon kevés sportok k
 
 ## Tartalomjegyzék
 
-1. Futástípusok
-2. [Szótár](szotar.md)
+1. A mozgás fiziológiai és szellemi hatásai
+2. Futástípusok
+3. [Szótár](szotar.md)
 
 ## Futóelemzés (ABC sorrendben)
 
@@ -71,6 +72,22 @@ Ráadásul ez az aktivitás nemcsak futásból áll, mivel azon kevés sportok k
 ### Angol nyelvű
 
 - The Running Channel: https://therunningchannel.com/
+
+---
+
+## A mozgás fiziológiai és szellemi hatásai
+
+### A mozgás jótékony hatásai
+
+- javítja az alvás minőségét
+- több energiát eredményez
+- javítja a közérzetet
+- segít a stressz levezetésében
+- javítja a koncentrációs képességet
+- növeli az önbizalmat, az önbecsülést, az akaraterőt
+- javítja a keringési rendszer működését
+- erősíti a szívizomzatot és csökkenti a nyugalmi pulzust
+- edzettebbé teszi a vázizomzatot
 
 ---
 
